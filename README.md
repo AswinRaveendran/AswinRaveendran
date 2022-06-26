@@ -14,7 +14,7 @@
 
 ## 🛠 Skills
 
-**Git, C, Python, Java...**
+**C, Python, Java...**
 
 ## 🔗 Links
 
