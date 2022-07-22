@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-**I'm a self-taught Python, C , Java programmer...**
+**I'm a programmer...**
 
 # My Stats
 <hr>
@@ -14,7 +14,7 @@
 
 ## 🛠 Skills
 
-**C, Python, Java...**
+**C, Python, Java, Linux...**
 
 ## 🔗 Links
 
