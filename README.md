@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-**I'm a programmer...**
+**My name is Aswin Raveendran, and I am a self-taught programmer. I enjoy applying what I've learned to do creative and challenging work that allows me to grow and expand my knowledge....**
 
 # My Stats
 <hr>
