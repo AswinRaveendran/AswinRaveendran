@@ -9,7 +9,7 @@
 # My Stats
 <hr>
 
-![AswinRaveendran's github stats](https://github-readme-stats.vercel.app/api?username=AswinRaveendran&show_icons=true&theme=light)
+![Aswin's github stats](https://github-readme-stats.vercel.app/api?username=AswinRaveendran&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinRaveendran)
 
 ## 🛠 Skills
